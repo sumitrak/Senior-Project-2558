@@ -11,3 +11,9 @@ D:\WebDB\KitchenLine\sproject\bin\sproject.pdb
 D:\WebDB\KitchenLine\sproject\obj\Debug\sproject.csprojResolveAssemblyReference.cache
 D:\WebDB\KitchenLine\sproject\obj\Debug\sproject.dll
 D:\WebDB\KitchenLine\sproject\obj\Debug\sproject.pdb
+D:\Senior-Project-2558\WebDB\KitchenLine\sproject\bin\sproject.dll.config
+D:\Senior-Project-2558\WebDB\KitchenLine\sproject\bin\sproject.dll
+D:\Senior-Project-2558\WebDB\KitchenLine\sproject\bin\sproject.pdb
+D:\Senior-Project-2558\WebDB\KitchenLine\sproject\obj\Debug\sproject.csprojResolveAssemblyReference.cache
+D:\Senior-Project-2558\WebDB\KitchenLine\sproject\obj\Debug\sproject.dll
+D:\Senior-Project-2558\WebDB\KitchenLine\sproject\obj\Debug\sproject.pdb
